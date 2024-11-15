@@ -55,7 +55,7 @@
 
 ### [C4 — Уровень контейнеров](container/Containers.puml)
 
-### [C4 — Уровень компонентов](container/Components.puml)
+### [C4 — Уровень компонентов](component/Components.puml)
 
 ### C4 — Уровень кода
 - [Управление отоплением](code/Heating-Service-Code.puml)
